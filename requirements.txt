@@ -1,5 +1,9 @@
 opencv-python
 ultralytics
+duckduckgo-search 
+transformers 
+segment-anything 
+supervision
 numpy
 Pillow
 torch
@@ -10,7 +14,16 @@ pandas
 scipy
 seaborn
 streamlit
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-tools
 python-dotenv
+sentence-transformers
+huggingface
+chromadb
 PyYAML
 requests
 tqdm
@@ -18,3 +31,4 @@ gradio
 faiss-cpu
 pdfplumber
 PyPDF2
+spacy
